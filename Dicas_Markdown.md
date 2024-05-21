@@ -32,3 +32,32 @@ Lista de Tarefas:
 - [ ] Traço, espaço, abre colchete, espaço e fecha colchete: Cria um item da lista de tarefas
 - [ ] Nova tarefa
 - [x] Tarefa concluída
+
+Imagens
+![octocat](https://github.com/ronaldpedra/intranet_easa/assets/69393789/5665dbc3-1224-4716-8014-87445487add6)
+
+Links
+[Texto entre chaves](https://www.link_entre_parenteses.com)
+
+Tabelas
+Coluna1 | Coluna 2 | Coluna 3
+---|---|---
+linha1 Coluna1|linha1 coluna2|linha1 coluna3
+linha2 Coluna1|linha2 coluna2|linha2 coluna3
+
+Terminou a tabela
+
+Comando destacados `document.getElementById()`
+
+linhas de código
+```
+num = int(input('Digite um valor: ')
+if num % 2 == 0:
+   print(f'O valor {num} é PAR')
+else
+   print(f'O valor {num} é IMPAR')
+```
+
+Emogis
+
+Olá, pequeno gafanhoto 🤙 digite : e o nome do emogi. O repositório pode ser encontrado em [emogis](www.github.com/ikatyang)

@@ -67,4 +67,6 @@ Olá, pequeno gafanhoto 🤙 digite : e o nome do emogi. O repositório pode ser
 Marcar pessoas: digite o @ e o nome da pessoa @ronaldpedra - melhor interação no menu de issues.
 
 
-> Linha marcada. Geralmente para 
+> Linha marcada. Geralmente para citações
+
+Você pode encontrar mais informações no [Guia do Markdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)

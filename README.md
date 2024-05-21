@@ -6,7 +6,7 @@
    - O projeto requer a versão mínima do node >= v18.13.0
    - Instale o node.js (https://nodejs.org/) para poder contribuir com o projeto. A seguir, instale com o npm o padrão gov.br conforme abaixo.
 
-3. Instalação com npm
+2. Instalação com npm
 
     Confira sempre a versão referência ao baixar o pacote @govbr-ds/core.
 

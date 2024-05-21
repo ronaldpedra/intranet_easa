@@ -15,5 +15,5 @@
         npm install @govbr-ds/core
 
     Serão criados automaticamente os seguintes arquivos em seu projeto:
-        package.json: configurações do seu projeto
-        node_modules/@govbr-ds/core: pasta com os módulos necessários para o funcionamento do Design System
+        - package.json: configurações do seu projeto
+        - node_modules/@govbr-ds/core: pasta com os módulos necessários para o funcionamento do Design System

@@ -34,9 +34,11 @@ Lista de Tarefas:
 - [x] Tarefa concluída
 
 Imagens
+
 ![octocat](https://github.com/ronaldpedra/intranet_easa/assets/69393789/5665dbc3-1224-4716-8014-87445487add6)
 
 Links
+
 [Texto entre chaves](https://www.link_entre_parenteses.com)
 
 Tabelas
@@ -60,4 +62,9 @@ else
 
 Emogis
 
-Olá, pequeno gafanhoto 🤙 digite : e o nome do emogi. O repositório pode ser encontrado em [emogis](www.github.com/ikatyang)
+Olá, pequeno gafanhoto 🤙 digite : e o nome do emogi. O repositório pode ser encontrado em [emogis](https://github.com/ikatyang/emoji-cheat-sheet)
+
+Marcar pessoas: digite o @ e o nome da pessoa @ronaldpedra - melhor interação no menu de issues.
+
+
+> Linha marcada. Geralmente para 
